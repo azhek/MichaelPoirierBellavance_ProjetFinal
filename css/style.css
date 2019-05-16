@@ -3,13 +3,54 @@ html,body
     height: 100%;
 }
 
-.banniere
+.textTitre
 {
-    background-image: url("../img/controle.png");
+    padding-top: 25px;
+    font-size: 75px;
+    color: white;
+}
+
+.bannierePresentation
+{
+    background-image: url("../img/technoPresentation.jpg");
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+.backgroundPresentation
+{
+    background-color: lightskyblue;
+}
+
+.backgroundPresentationMedecine
+{
+    background-color:  lightgreen;
+
+}
+
+.backgroundPresentationRobotique
+{
+    background-color:  lightsteelblue;
+
+}
+
+
+
+.medecineTexte
+{
+    font-size: 40px;
+}
+
+.robotiqueTexte
+{
+    font-size: 40px;
+}
+
+#imageMedecine
+{
+    cursor: pointer;
 }
 
 .navbar {
