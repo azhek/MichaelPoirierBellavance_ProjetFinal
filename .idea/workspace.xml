@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6f48732-a18c-4d54-80b4-afa7b3188ebf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/page3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/page4.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="70" column="49" lean-forward="true" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+            <state relative-caret-position="192">
+              <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -66,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
+            <state relative-caret-position="709">
               <caret line="84" column="619" selection-start-line="84" selection-start-column="619" selection-end-line="84" selection-end-column="619" />
             </state>
           </provider>
@@ -108,9 +104,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/page2.html" />
         <option value="$PROJECT_DIR$/page3.html" />
-        <option value="$PROJECT_DIR$/page4.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/page4.html" />
       </list>
     </option>
   </component>
@@ -211,7 +207,7 @@
       <workItem from="1558552517821" duration="4883000" />
       <workItem from="1558576781065" duration="7098000" />
       <workItem from="1558640877528" duration="14658000" />
-      <workItem from="1558713358980" duration="15794000" />
+      <workItem from="1558713358980" duration="16437000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1557172114894</created>
@@ -276,11 +272,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558713413068</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="JeuVideoComplet">
+      <created>1558743657562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558743657562</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93916000" />
+    <option name="totallyTimeSpent" value="94559000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -320,7 +323,8 @@
     <MESSAGE value="Robotique" />
     <MESSAGE value="Test javascript" />
     <MESSAGE value="Medecine complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Medecine complete" />
+    <MESSAGE value="JeuVideoComplet" />
+    <option name="LAST_COMMIT_MESSAGE" value="JeuVideoComplet" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/page5.html">
@@ -361,17 +365,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page4.html">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="70" column="49" lean-forward="true" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+        <state relative-caret-position="709">
+          <caret line="84" column="619" selection-start-line="84" selection-start-column="619" selection-end-line="84" selection-end-column="619" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/page4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="84" column="619" selection-start-line="84" selection-start-column="619" selection-end-line="84" selection-end-column="619" />
+        <state relative-caret-position="192">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
         </state>
       </provider>
     </entry>
